@@ -44,7 +44,9 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | File | Topic | What You'll Learn |
 |------|-------|-------------------|
 | [`001_hello_world.py`](001_hello_world.py) | Hello World | Your first Python program |
-| [`001_hello_world_copilot_version.py`](001_hello_world_copilot_version.py) | Hello World (Enhanced) | Extended version with detailed explanations and exercises |
+| [`001_hello_world_copilot_version.py`](001_hello_world_copilot_version.py) | Hello World (AI generated) | Extended version with detailed explanations and exercises |
+| [`002_Variables_and_Datatypes_Primitives.py`](002_Variables_and_Datatypes_Primitives.py) | Variables & Data Types | Primitives and basic string operations |
+| [`002_Variables_and_Datatypes_Primitives_copilot_version.py`](002_Variables_and_Datatypes_Primitives_copilot_version.py) | Variables & Data Types (AI generated) | Complete guide with examples and exercises |
 
 
 *More files will be added as we progress through the course!*
