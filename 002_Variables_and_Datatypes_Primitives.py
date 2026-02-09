@@ -123,3 +123,25 @@
 
 # print('File is at: ', file_location_bad)
 # print('File is at: ', file_location_good)
+
+
+lowercase_letters = 5
+uppercase_letters = 8
+numbers = 10
+special_characters = 15
+
+len_score = 3
+
+password = 'abcDE1234!@'
+password_len = len(password)
+lowercase_count = 3
+uppercase_count = 2
+numbers_count = 4
+special_count = 2
+
+
+total_score = lowercase_count * lowercase_letters + uppercase_count * uppercase_letters + numbers_count * numbers + special_count * special_characters + password_len * len_score
+
+print(total_score)
+
+print(total_score % 10)
