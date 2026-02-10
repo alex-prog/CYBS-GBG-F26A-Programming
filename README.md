@@ -46,8 +46,12 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`001_hello_world.py`](001_hello_world.py) | Hello World | Your first Python program |
 | [`001_hello_world_copilot_version.py`](001_hello_world_copilot_version.py) | Hello World (AI generated) | Extended version with detailed explanations and exercises |
 | [`002_Variables_and_Datatypes_Primitives.py`](002_Variables_and_Datatypes_Primitives.py) | Variables & Data Types | Primitives and basic string operations |
-| [`002_Variables_and_Datatypes_Primitives_copilot_version.py`](002_Variables_and_Datatypes_Primitives_copilot_version.py) | Variables & Data Types (AI generated) | Complete guide with examples and exercises || [`003_bool_list_tuple.py`](003_bool_list_tuple.py) | Booleans, Lists & Tuples | Boolean logic and sequence data types |
-| [`003_bool_list_tuple_copilot_version.py`](003_bool_list_tuple_copilot_version.py) | Booleans, Lists & Tuples (Enhanced) | Complete guide with examples and exercises |
+| [`002_Variables_and_Datatypes_Primitives_copilot_version.py`](002_Variables_and_Datatypes_Primitives_copilot_version.py) | Variables & Data Types (AI generated) | Complete guide with examples and exercises |
+| [`003_bool_list_tuple.py`](003_bool_list_tuple.py) | Booleans, Lists & Tuples | Boolean logic and sequence data types |
+| [`003_bool_list_tuple_copilot_version.py`](003_bool_list_tuple_copilot_version.py) | Booleans, Lists & Tuples (AI generated) | Complete guide with examples and exercises |
+| [`004_dict_set.py`](004_dict_set.py) | Dictionaries & Sets | Key-value pairs and unique collections |
+| [`004_dict_set_copilot_version.py`](004_dict_set_copilot_version.py) | Dictionaries & Sets (AI generated) | Complete guide with examples and exercises |
+
 
 *More files will be added as we progress through the course!*
 
