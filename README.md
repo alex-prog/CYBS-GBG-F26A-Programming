@@ -51,6 +51,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`003_bool_list_tuple_copilot_version.py`](003_bool_list_tuple_copilot_version.py) | Booleans, Lists & Tuples (AI generated) | Complete guide with examples and exercises |
 | [`004_dict_set.py`](004_dict_set.py) | Dictionaries & Sets | Key-value pairs and unique collections |
 | [`004_dict_set_copilot_version.py`](004_dict_set_copilot_version.py) | Dictionaries & Sets (AI generated) | Complete guide with examples and exercises |
+| [`006_control_flows.py`](006_control_flows.py) | Control Flows | If statements, loops, and iteration |
+| [`006_control_flows_copilot_version.py`](006_control_flows_copilot_version.py) | Control Flows (AI generated) | Complete guide with examples and exercises |
 
 
 *More files will be added as we progress through the course!*
