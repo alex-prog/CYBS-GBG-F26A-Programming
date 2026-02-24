@@ -53,6 +53,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`004_dict_set_copilot_version.py`](004_dict_set_copilot_version.py) | Dictionaries & Sets (AI generated) | Complete guide with examples and exercises |
 | [`006_control_flows.py`](006_control_flows.py) | Control Flows | If statements, loops, and iteration |
 | [`006_control_flows_copilot_version.py`](006_control_flows_copilot_version.py) | Control Flows (AI generated) | Complete guide with examples and exercises |
+| [`007_func_exceptions.py`](007_func_exceptions.py) | Functions & Exceptions | Defining functions and error handling |
+| [`007_func_exceptions_copilot_version.py`](007_func_exceptions_copilot_version.py) | Functions & Exceptions (AI generated) | Complete guide with examples and exercises |
 
 
 *More files will be added as we progress through the course!*
