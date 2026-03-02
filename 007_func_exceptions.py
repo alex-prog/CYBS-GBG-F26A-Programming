@@ -64,9 +64,10 @@
 #     print("Some other general error")
 
 
-try:
-    # print(5/0)
-    x = "cyber"
-    x = int(x)
-except Exception as abdulah:
-    print("Some other general error: ", abdulah)
+# try:
+#     # print(5/0)
+#     x = "cyber"
+#     x = int(x)
+# except Exception as abdulah:
+#     print("Some other general error: ", abdulah)
+

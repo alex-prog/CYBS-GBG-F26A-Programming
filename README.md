@@ -55,6 +55,8 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`006_control_flows_copilot_version.py`](006_control_flows_copilot_version.py) | Control Flows (AI generated) | Complete guide with examples and exercises |
 | [`007_func_exceptions.py`](007_func_exceptions.py) | Functions & Exceptions | Defining functions and error handling |
 | [`007_func_exceptions_copilot_version.py`](007_func_exceptions_copilot_version.py) | Functions & Exceptions (AI generated) | Complete guide with examples and exercises |
+| [`008_files.py`](008_files.py) | File Operations | Reading and writing files |
+| [`008_files_copilot_version.py`](008_files_copilot_version.py) | File Operations (AI generated) | Complete guide with examples and exercises |
 
 
 *More files will be added as we progress through the course!*
