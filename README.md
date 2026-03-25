@@ -18,6 +18,25 @@ This is where you'll find all the code examples from our programming classes. Ea
 - Python 3.8 or newer installed on your computer
 - A text editor (I recommend VS Code)
 
+### Required Packages
+Some exercises require additional Python packages. Install them using pip:
+
+```bash
+# For HTTP requests (011_req files)
+pip install requests
+
+# For MySQL database (011_db_mysql files)
+pip install mysql-connector-python
+
+# For HTML parsing (optional exercises)
+pip install beautifulsoup4
+```
+
+To install all at once:
+```bash
+pip install requests mysql-connector-python beautifulsoup4
+```
+
 ### How to Use These Files
 1. **Download** or **clone** this repository to your computer
 2. **Open** the Python files in your text editor
@@ -36,6 +55,19 @@ Example:
 ```
 python 001_first.py
 ```
+
+### Understanding File Versions
+Each topic has two versions:
+
+- **Original Files** (e.g., `001_hello_world.py`): The instructor's condensed version used in class
+- **Copilot Versions** (e.g., `001_hello_world_copilot_version.py`): Extended AI-generated versions with:
+  - Detailed explanations and comments
+  - Multiple examples for each concept
+  - Practice exercises at the end
+  - Challenge problems for advanced learners
+  - Key takeaways and best practices
+
+Both versions teach the same concepts - the copilot versions just provide more depth and practice opportunities!
 
 ## 📁 Course Files
 
@@ -57,9 +89,26 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 | [`007_func_exceptions_copilot_version.py`](007_func_exceptions_copilot_version.py) | Functions & Exceptions (AI generated) | Complete guide with examples and exercises |
 | [`008_files.py`](008_files.py) | File Operations | Reading and writing files |
 | [`008_files_copilot_version.py`](008_files_copilot_version.py) | File Operations (AI generated) | Complete guide with examples and exercises |
+| [`009_json_csv.py`](009_json_csv.py) | JSON & CSV Files | Working with JSON and CSV data formats |
+| [`009_json_csv_copilot_version.py`](009_json_csv_copilot_version.py) | JSON & CSV Files (AI generated) | Complete guide with examples and exercises |
+| [`010_input_validation.py`](010_input_validation.py) | Input Validation | Validating and sanitizing user input |
+| [`010_input_validation_copilot_version.py`](010_input_validation_copilot_version.py) | Input Validation (AI generated) | Complete guide with regex, security, and exercises |
+| **011 - External Data & APIs** | | **Three-part module:** |
+| [`011_req.py`](011_req.py) | └─ HTTP Requests | Making HTTP requests with the requests library |
+| [`011_req_copilot_version.py`](011_req_copilot_version.py) | └─ HTTP Requests (AI generated) | Complete guide with API examples and exercises |
+| [`011_db_sqlite.py`](011_db_sqlite.py) | └─ SQLite Database | Working with SQLite databases |
+| [`011_db_sqlite_copilot_version.py`](011_db_sqlite_copilot_version.py) | └─ SQLite Database (AI generated) | Complete CRUD guide with security logging examples |
+| [`011_db_mysql.py`](011_db_mysql.py) | └─ MySQL Database | Connecting to MySQL databases |
+| [`011_db_mysql_copilot_version.py`](011_db_mysql_copilot_version.py) | └─ MySQL Database (AI generated) | Complete guide with connection pooling and exercises |
 
 
 *More files will be added as we progress through the course!*
+
+### Supporting Data Files
+The repository also includes sample data files used in exercises:
+- `alert.json`, `threat_intel.json`, `incident_report.json` - JSON examples
+- `grades.csv`, `security_report.csv` - CSV examples  
+- `my_file.txt`, `test.txt`, `numbers.txt` - Text file examples
 
 ## 💡 How to Learn Effectively
 
@@ -88,11 +137,16 @@ Each file follows this naming pattern: `XXX_topic_name.py`
 By the end of this course, you will be able to:
 - Write basic Python programs
 - Use variables and data types
-- Get input from users
+- Get input from users and validate it
 - Make decisions with if/else statements
 - Repeat actions with loops
 - Organize code with functions
-- Handle errors gracefully
+- Handle errors gracefully with try/except
+- Work with files (reading, writing, JSON, CSV)
+- Use regular expressions for pattern matching
+- Make HTTP requests to APIs
+- Work with databases (SQLite and MySQL)
+- Apply programming to cybersecurity scenarios
 
 ---
 

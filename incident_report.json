@@ -1,0 +1,10 @@
+{
+    "incident_id": "INC-2024-042",
+    "date": "2024-09-16",
+    "type": "data_breach",
+    "affected_systems": [
+        "web-server-01",
+        "database-02"
+    ],
+    "status": "investigating"
+}
