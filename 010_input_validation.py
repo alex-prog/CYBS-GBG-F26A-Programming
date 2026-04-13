@@ -39,6 +39,7 @@ def validate_username(username):
     return username.strip()
 
 
+import html
 import re 
  
 # def validate_ip_address(ip):
